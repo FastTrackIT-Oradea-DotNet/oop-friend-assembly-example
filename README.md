@@ -1,2 +1,2 @@
-# oop-friend-assembly-example
-A simple example for friend assemblies (OOP course)
+# OOP Course: Friend Assembly Example
+A simple example for friend assemblies.
